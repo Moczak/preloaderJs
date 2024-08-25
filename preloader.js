@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://Moczak.github.io/preloaderJs/bouncing-circles.svg';
+svgImage.src = 'https://Moczak.github.io/preloaderJs/motion-blur-2.svg';
 svgImage.style.cssText = `
     max-width: 30%;
     max-height: 30%;
