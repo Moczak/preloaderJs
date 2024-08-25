@@ -18,8 +18,8 @@ const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
 svgImage.src = 'https://Moczak.github.io/preloaderJs/bouncing-circles.svg';
 svgImage.style.cssText = `
-    max-width: 50%;
-    max-height: 50%;
+    max-width: 30%;
+    max-height: 30%;
     display: none;
     position: absolute;
     top: 50%;
