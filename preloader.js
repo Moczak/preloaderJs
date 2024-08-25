@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://Moczak.github.io/preloaderJs/preload.svg';
+svgImage.src = 'https://Moczak.github.io/preloaderJs/bouncing-circles.svg';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
